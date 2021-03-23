@@ -1,2 +1,2 @@
 # Clase2-React
-Created with CodeSandbox
+Se me olvido guardar esta clase, pero lo volvere a hacer en breve
