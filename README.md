@@ -1,2 +1,2 @@
 # Clase2-React
-Se me olvido guardar esta clase, pero lo volvere a hacer en breve
+Se me olvido guardar esta clase, por lo que volvi a rehacer el ejercicio.
